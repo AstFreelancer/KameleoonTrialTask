@@ -1,7 +1,9 @@
 # Summary
 This is a Trial Task for *Kameleoon*.
 
-This is a REST API allowing:
+A simple REST API written on Java, using Spring Boot and H2.
+
+My API allowing:
 
 - POST /users
 - POST /quotes
